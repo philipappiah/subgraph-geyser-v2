@@ -31,8 +31,8 @@
     "static/js/14.7111d967.chunk.js": "/subgraph-geyser-v2/static/js/14.7111d967.chunk.js",
     "static/js/14.7111d967.chunk.js.map": "/subgraph-geyser-v2/static/js/14.7111d967.chunk.js.map",
     "main.css": "/subgraph-geyser-v2/static/css/main.af8c2523.chunk.css",
-    "main.js": "/subgraph-geyser-v2/static/js/main.e5f007a8.chunk.js",
-    "main.js.map": "/subgraph-geyser-v2/static/js/main.e5f007a8.chunk.js.map",
+    "main.js": "/subgraph-geyser-v2/static/js/main.5c1f5356.chunk.js",
+    "main.js.map": "/subgraph-geyser-v2/static/js/main.5c1f5356.chunk.js.map",
     "runtime-main.js": "/subgraph-geyser-v2/static/js/runtime-main.30623fe7.js",
     "runtime-main.js.map": "/subgraph-geyser-v2/static/js/runtime-main.30623fe7.js.map",
     "static/js/17.a7211186.chunk.js": "/subgraph-geyser-v2/static/js/17.a7211186.chunk.js",
@@ -163,6 +163,6 @@
     "static/js/runtime-main.30623fe7.js",
     "static/js/17.a7211186.chunk.js",
     "static/css/main.af8c2523.chunk.css",
-    "static/js/main.e5f007a8.chunk.js"
+    "static/js/main.5c1f5356.chunk.js"
   ]
 }
